@@ -1,0 +1,37 @@
+form{
+    border: solid 1px;
+    width: 300px;
+    margin-left: 390px;
+    padding-left:10px ;
+    padding-right: 10px;
+    background-color: darkgrey;
+}h1{
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+p{
+    font-size: 10px;
+    font-weight: bold;
+}
+label{
+    font-size: 20px;
+    color: chocolate;
+    font-weight:bold ;
+}
+input{
+    height:30px ;
+    width: 280px;
+}
+textarea{
+    height:100px;
+    width: 300px;
+}
+button{
+    height:50px ;
+    width:150px ;
+    background-color: darksalmon;
+    color: color-mix(in srgb, color percentage, color percentage);
+    font-size: 25px;
+    border-radius: 20px;
+}
